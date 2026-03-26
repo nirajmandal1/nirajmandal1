@@ -1,4 +1,4 @@
-# 💫 About Me:
+#                                  💫Hello 👋
 I am Niraj Mandal, a B.Tech student at Arya College of Engineering <br>with a strong foundation in C and C++. I have experience as a MERN Stack developer,building responsive and scalable web applications. Currently, <br>I am expanding my skills in Artificial Intelligence and Machine Learning. <br>I am passionate about continuous learning, solving real-world problems, <br>and contributing effectively in team environments.
 
 # 💻 Tech Stack:
